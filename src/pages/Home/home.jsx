@@ -33,54 +33,54 @@ return (
    </div>
 </section>
 <section2>
-   <div class="offer py-5 text-center">
-      <div class="container">
-         <h2 class="fw-bold text-warning mb-3">What We Deliver For Your Takeoff!</h2>
-         <p class="mb-5 fs-5 text-dark">
+   <div className="offer py-5 text-center">
+      <div className="container">
+         <h2 className="fw-bold text-warning mb-3">What We Deliver For Your Takeoff!</h2>
+         <p className="mb-5 fs-5 text-dark">
             Unlock your potential with training and insights built for pilots, whether you’re just starting or aiming for the high skies
          </p>
-         <div class="row g-4 text-start">
-            <div class="col-md-6 col-lg-3">
-               <div class="card h-100 shadow-sm border-0 rounded-4 p-3">
-                  <div class="card-body">
-                     <h5 class="card-title fw-bold mt-3">Latest Practice Material</h5>
-                     <p class="card-text small text-muted mt-3 mb-3">
+         <div className="row g-4 text-start">
+            <div className="col-md-6 col-lg-3">
+               <div className="card h-100 shadow-sm border-0 rounded-4 p-3">
+                  <div className="card-body">
+                     <h5 className="card-title fw-bold mt-3">Latest Practice Material</h5>
+                     <p className="card-text small text-muted mt-3 mb-3">
                         Dive into a rich collection of chapter-wise practice questions, updated regularly to cover the latest syllabus topics. Explore a variety of subjects with well-organized content designed to help you master each concept step-by-step.
                      </p>
-                     <a href="#" class="fw-semibold text-dark text-decoration-none">Discover <span>&rarr;</span></a>
+                     <a href="#" className="fw-semibold text-dark text-decoration-none">Discover <span>&rarr;</span></a>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-3">
-               <div class="card h-100 shadow-sm border-0 rounded-4 p-3">
-                  <div class="card-body">
-                     <h5 class="card-title fw-bold mt-3">Realistic Practice Tests</h5>
-                     <p class="card-text small text-muted mt-3 mb-3">
+            <div className="col-md-6 col-lg-3">
+               <div className="card h-100 shadow-sm border-0 rounded-4 p-3">
+                  <div className="card-body">
+                     <h5 className="card-title fw-bold mt-3">Realistic Practice Tests</h5>
+                     <p className="card-text small text-muted mt-3 mb-3">
                         Experience exam-like tests that mimic real conditions, complete with a timer and a wide range of questions. After each test, get a detailed breakdown of your performance to boost your confidence and readiness.
                      </p>
-                     <a href="#" class="fw-semibold text-dark text-decoration-none">Learn more <span>&rarr;</span></a>
+                     <a href="#" className="fw-semibold text-dark text-decoration-none">Learn more <span>&rarr;</span></a>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-3">
-               <div class="card h-100 shadow-sm border-0 rounded-4 p-3">
-                  <div class="card-body">
-                     <h5 class="card-title fw-bold mt-3">Personalized Progress Tracking</h5>
-                     <p class="card-text small text-muted mt-3 mb-3">
+            <div className="col-md-6 col-lg-3">
+               <div className="card h-100 shadow-sm border-0 rounded-4 p-3">
+                  <div className="card-body">
+                     <h5 className="card-title fw-bold mt-3">Personalized Progress Tracking</h5>
+                     <p className="card-text small text-muted mt-3 mb-3">
                         Monitor your learning journey with easy-to-read charts and graphs. Get tailored suggestions to improve your scores over time.
                      </p>
-                     <a href="#" class="fw-semibold text-dark text-decoration-none">Learn more <span>&rarr;</span></a>
+                     <a href="#" className="fw-semibold text-dark text-decoration-none">Learn more <span>&rarr;</span></a>
                   </div>
                </div>
             </div>
-            <div class="col-md-6 col-lg-3">
-               <div class="card h-100 shadow-sm border-0 rounded-4 p-3">
-                  <div class="card-body">
-                     <h5 class="card-title fw-bold mt-3">Be A Part Of Our Club</h5>
-                     <p class="card-text small text-muted mt-3 mb-3">
+            <div className="col-md-6 col-lg-3">
+               <div className="card h-100 shadow-sm border-0 rounded-4 p-3">
+                  <div className="card-body">
+                     <h5 className="card-title fw-bold mt-3">Be A Part Of Our Club</h5>
+                     <p className="card-text small text-muted mt-3 mb-3">
                         Connect with a vibrant community of learners and educators. Ask doubts, share tips, and receive guidance for your exam preparation.
                      </p>
-                     <a href="#" class="fw-semibold text-dark text-decoration-none">Discover <span>&rarr;</span></a>
+                     <a href="#" className="fw-semibold text-dark text-decoration-none">Discover <span>&rarr;</span></a>
                   </div>
                </div>
             </div>
